@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Bullet
+  - DeadArea
+  - Door
+  - Collection
+  - Danger
+  - Gun
+  - Key
+  - HandGun
+  - Stone
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Landing
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 4119209579
+    locked: 0
+  - name: FrontBackGround
+    uniqueID: 2574472875
+    locked: 0
+  - name: Landing
+    uniqueID: 848367621
+    locked: 0
+  - name: UserInter
+    uniqueID: 4211008949
+    locked: 0
+  - name: Frontground
+    uniqueID: 2238121771
+    locked: 0
+  - name: Player
+    uniqueID: 45825899
+    locked: 0

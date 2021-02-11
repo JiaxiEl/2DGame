@@ -1,0 +1,99 @@
+Scripts:
+	PlayerController.cs
+	WeaponConrtoller.cs
+	HorizLandingMove.cs
+	LandingMove.cs
+	Enemy.cs
+	DialogForHint.cs
+	Menu.cs
+	NextLevel.cs
+	Pause.cs
+
+ExtraCredit or for further complete:
+	InventoryManager.cs
+	Inventory.cs
+	Item.cs
+	ItemUI.cs
+	CharacterSwith.cs
+
+Music: (From Zero Rare)
+	BGM_01
+	game_over_01
+	laser_01
+	jump_01
+	coin_01
+	hit_01
+	
+Art:
+	Player:	
+		Stadning-Gun2
+		Stadning1-Gun2
+		Stadning2-Gun2
+		Walking-Gun2
+		Walking1-Gun2
+		Walking2-Gun2
+		Droping-Gun2
+		Jumping-Gun2
+		
+
+	For further Design:
+		Stadning
+		Stadning1
+		Stadning2
+		Walking
+		Walking1
+		Walking2
+		Droping
+		Jumping
+		Stadning-Gun1
+		Stadning1-Gun1
+		Stadning2-Gun1
+		Walking-Gun1
+		Walking1-Gun1
+		Walking2-Gun1
+		Droping-Gun1
+		Jumping-Gun1
+		
+
+		
+		
+	Menu:
+		Button-Game Pause
+		Button-Quit
+		Button-Pause
+		Button-Start
+		Button-Title
+	Enemy:
+		BlueEnemy
+		GreenEnemy
+	Collection:
+		Ice Cream
+		Ice Cream1
+		Ice Cream2
+		Key
+		Bullet2
+		Bullet2-Shooting
+		MaxHp
+		Hp
+		Backpack-Open
+	Enviorment:
+		Door-opened
+		Land1
+		Land2
+		Land3
+		Land4
+		Land5
+		Land6
+		Land7
+		Land8-Thorn
+		Land8-Thorn1
+		Land8-Thorn2
+		Land8-Thorn3
+		Land8-Thorn4
+		Stone
+		Wholeland
+		BackGround
+		
+		
+
+		

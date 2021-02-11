@@ -1,0 +1,10 @@
+Using the Following button to Contorl the Character.
+Find the Key, then you can find the door for next level
+Stone and Character's Jumping Can destory the Enemy, so find it and use it.
+
+
+
+Left Move: Left Arrow Or "A"
+Right Move: Right Arrow Or "D"
+Jumping: Space
+Attack: left Control
