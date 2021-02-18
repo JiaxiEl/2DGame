@@ -1,2 +1,3 @@
 # 2DGame
-# Side-scrolling game 
+Side-scrolling game 
+Detail in the GDD
